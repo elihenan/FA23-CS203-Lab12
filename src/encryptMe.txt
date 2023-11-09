@@ -1,7 +1,0 @@
-Hello World!
-
-Make sure to read things in one line at a time!
-
-File IO is fun
-
-ABCDEFG
